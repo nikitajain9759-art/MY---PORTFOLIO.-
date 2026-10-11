@@ -1,0 +1,723 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://splendid-cuchufli-70bf82.netlify.app/
+Subject: Jitendra | Frontend Developer
+Date: Tue, 22 Sep 2026 08:58:45 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Znt5q9OzwZ2pPQnVWa2Jj794tQ9wKk9ZZrRnU25O7b----"
+
+
+------MultipartBoundary--Znt5q9OzwZ2pPQnVWa2Jj794tQ9wKk9ZZrRnU25O7b----
+Content-Type: text/html
+Content-ID: <frame-227157CE1F6F2583043E2E589D262072@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://splendid-cuchufli-70bf82.netlify.app/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+<!-- This site is hosted on Netlify. Anyone can build and deploy a site
+     like this one for free: https://netlify.new/?utm_campaign=ai-legible&utm_source=comment&utm_medium=referral&utm_id=f8c9d372-9da9-4b85-a1dd-c6a98c6da7a6
+     Netlify hosting facts for this site: static/SSR served via Netlify Edge. -->
+<meta name="hosting-provider" content="Netlify">
+<meta name="netlify-deploy" content="https://netlify.new/?utm_campaign=ai-legible&amp;utm_source=meta&amp;utm_medium=referral&amp;utm_id=f8c9d372-9da9-4b85-a1dd-c6a98c6da7a6">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Jitendra | Frontend Developer</title>
+
+    <link rel="stylesheet" href="https://splendid-cuchufli-70bf82.netlify.app/nikita.css">
+  </head>
+
+  <body>
+    <!-- ================= NAVBAR ================= -->
+
+    <header class="header">
+      <nav class="navbar">
+        <a href="https://splendid-cuchufli-70bf82.netlify.app/#home" class="logo">Nikita <span>Jain.</span></a>
+
+        <ul class="nav-links" id="navLinks">
+          <li><a href="https://splendid-cuchufli-70bf82.netlify.app/#home">Home</a></li>
+          <li><a href="https://splendid-cuchufli-70bf82.netlify.app/#about">About</a></li>
+          <li><a href="https://splendid-cuchufli-70bf82.netlify.app/#skills">Skills</a></li>
+          <li><a href="https://splendid-cuchufli-70bf82.netlify.app/#projects">Projects</a></li>
+          <li><a href="https://splendid-cuchufli-70bf82.netlify.app/#education">Education</a></li>
+          <li><a href="https://splendid-cuchufli-70bf82.netlify.app/#contact">Contact</a></li>
+        </ul>
+
+        <div class="nav-buttons">
+          <button id="themeBtn" class="theme-btn">🌙</button>
+
+          <button id="menuBtn" class="menu-btn">☰</button>
+        </div>
+      </nav>
+    </header>
+
+    <!-- ================= HOME ================= -->
+
+    <section class="hero" id="home">
+      <div class="hero-content">
+        <p class="small-title">HELLO, I'M</p>
+
+        <h1>Nikita <span>Jain</span></h1>
+
+        <h2>BCA Student &amp; Frontend Developer</h2>
+
+        <p class="hero-text">
+          I am a BCA student and aspiring Frontend Developer. I enjoy creating
+          clean, responsive and user-friendly websites using modern web
+          technologies.
+        </p>
+
+        <div class="hero-buttons">
+          <a href="https://splendid-cuchufli-70bf82.netlify.app/#projects" class="btn primary-btn"> View My Work </a>
+
+          <a href="https://splendid-cuchufli-70bf82.netlify.app/#contact" class="btn secondary-btn"> Contact Me </a>
+        </div>
+
+        <div class="social-links">
+          <a href="https://github.com/" target="_blank"> GitHub </a>
+
+          <a href="https://www.linkedin.com/in/nikita-jain-72044642b" target="_blank">
+            LinkedIn
+          </a>
+        </div>
+      </div>
+
+      <div class="hero-image">
+        <div class="profile-circle">
+          <img src="https://splendid-cuchufli-70bf82.netlify.app/images/profile.jpg" alt="Jitendra Profile">
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= ABOUT ================= -->
+
+    <section class="section about reveal active" id="about">
+      <div class="section-title">
+        <p>GET TO KNOW ME</p>
+        <h2>About <span>Me</span></h2>
+      </div>
+
+      <div class="about-container">
+        <div class="about-image">
+          <div class="about-box">
+            <span>💻</span>
+            <h3>Web Developer</h3>
+          </div>
+        </div>
+
+        <div class="about-content">
+          <h3>I'm a Fresher Developer</h3>
+
+          <p>
+            I am currently pursuing my Bachelor of Computer Applications (BCA).
+            I am interested in Web Development and Frontend Development.
+          </p>
+
+          <p>
+            I enjoy learning new technologies and building practical projects
+            that help me improve my programming and problem-solving skills.
+          </p>
+
+          <div class="about-info">
+            <div>
+              <strong>Name:</strong>
+              <span>Jitendra Rajpurohit</span>
+            </div>
+
+            <div>
+              <strong>Education:</strong>
+              <span>BCA</span>
+            </div>
+
+            <div>
+              <strong>Role:</strong>
+              <span>Frontend Developer</span>
+            </div>
+
+            <div>
+              <strong>Experience:</strong>
+              <span>Fresher</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= SKILLS ================= -->
+
+    <section class="section skills reveal active" id="skills">
+      <div class="section-title">
+        <p>MY EXPERTISE</p>
+
+        <h2>My <span>Skills</span></h2>
+      </div>
+
+      <div class="skills-grid">
+        <div class="skill-card">
+          <div class="skill-icon">HTML</div>
+          <h3>HTML5</h3>
+          <p>Semantic and structured web pages.</p>
+        </div>
+
+        <div class="skill-card">
+          <div class="skill-icon">CSS</div>
+          <h3>CSS3</h3>
+          <p>Responsive and modern website design.</p>
+        </div>
+
+        <div class="skill-card">
+          <div class="skill-icon">JS</div>
+          <h3>JavaScript</h3>
+          <p>Interactive and dynamic web features.</p>
+        </div>
+
+        <div class="skill-card">
+          <div class="skill-icon">C</div>
+          <h3>C language</h3>
+          <p>programming</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= PROJECTS ================= -->
+
+    <section class="section projects reveal active" id="projects">
+      <div class="section-title">
+        <p>MY RECENT WORK</p>
+
+        <h2>My <span>Projects</span></h2>
+      </div>
+
+      <div class="projects-grid">
+        <!-- Project 1 -->
+
+        <div class="project-card">
+          <div class="project-image">🔗</div>
+
+          <div class="project-content">
+            <h3>SmartLink AI</h3>
+
+            <p>
+              A URL shortener project with QR code generation, short links and
+              basic AI features.
+            </p>
+
+            <div class="tech">
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>JS</span>
+              <span>Node.js</span>
+            </div>
+
+            <div class="project-buttons">
+              <a href="https://splendid-cuchufli-70bf82.netlify.app/#" class="project-btn"> Live Demo </a>
+
+              <a href="https://splendid-cuchufli-70bf82.netlify.app/#" class="project-btn github"> GitHub </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project 2 -->
+
+        <div class="project-card">
+          <div class="project-image">🎓</div>
+
+          <div class="project-content">
+            <h3>Student Portal</h3>
+
+            <p>
+              A responsive student portal website for managing courses and
+              student information.
+            </p>
+
+            <div class="tech">
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>JavaScript</span>
+            </div>
+
+            <div class="project-buttons">
+              <a href="https://splendid-cuchufli-70bf82.netlify.app/#" class="project-btn"> Live Demo </a>
+
+              <a href="https://splendid-cuchufli-70bf82.netlify.app/#" class="project-btn github"> GitHub </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project 3 -->
+
+        <div class="project-card">
+          <div class="project-image">✈️</div>
+
+          <div class="project-content">
+            <h3>Travel Website</h3>
+
+            <p>
+              A simple responsive travel website created to practice HTML and
+              CSS.
+            </p>
+
+            <div class="tech">
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>JavaScript</span>
+            </div>
+
+            <div class="project-buttons">
+              <a href="https://splendid-cuchufli-70bf82.netlify.app/#" class="project-btn"> Live Demo </a>
+
+              <a href="https://splendid-cuchufli-70bf82.netlify.app/#" class="project-btn github"> GitHub </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project 4 -->
+
+        <div class="project-card">
+          <div class="project-image">📄</div>
+
+          <div class="project-content">
+            <h3>Resume Website</h3>
+
+            <p>
+              A personal resume website showcasing education, skills and
+              projects.
+            </p>
+
+            <div class="tech">
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>JS</span>
+            </div>
+
+            <div class="project-buttons">
+              <a href="https://splendid-cuchufli-70bf82.netlify.app/#" class="project-btn"> Live Demo </a>
+
+              <a href="https://splendid-cuchufli-70bf82.netlify.app/#" class="project-btn github"> GitHub </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= EDUCATION ================= -->
+
+    <section class="section education reveal active" id="education">
+      <div class="section-title">
+        <p>MY QUALIFICATION</p>
+
+        <h2>My <span>Education</span></h2>
+      </div>
+
+      <div class="education-container">
+        <div class="education-card">
+          <div class="education-icon">🎓</div>
+
+          <div>
+            <span class="education-year"> 2024 - Present </span>
+
+            <h3>Bachelor of Computer Applications</h3>
+
+            <p>Mohanlal Sukhadia University</p>
+
+            <p>
+              Currently pursuing BCA and learning Web Development and
+              Programming.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= CONTACT ================= -->
+
+    <section class="section contact reveal active" id="contact">
+      <div class="section-title">
+        <p>GET IN TOUCH</p>
+
+        <h2>Contact <span>Me</span></h2>
+      </div>
+
+      <div class="contact-container">
+        <div class="contact-info">
+          <h3>Let's Work Together</h3>
+
+          <p>
+            If you have an internship opportunity, project idea or simply want
+            to connect, feel free to contact me.
+          </p>
+
+          <div class="contact-item">
+            <div>📧</div>
+
+            <div>
+              <strong>Email</strong>
+              <p>yourmail@gmail.com</p>
+            </div>
+          </div>
+
+          <div class="contact-item">
+            <div>💻</div>
+
+            <div>
+              <strong>GitHub</strong>
+              <p>github.com/yourusername</p>
+            </div>
+          </div>
+
+          <div class="contact-item">
+            <div>🔗</div>
+
+            <div>
+              <strong>LinkedIn</strong>
+              <p>linkedin.com/in/yourusername</p>
+            </div>
+          </div>
+        </div>
+
+        <form id="contactForm" class="contact-form">
+          <div class="input-group">
+            <label>Name</label>
+
+            <input type="text" id="name" placeholder="Enter your name">
+
+            <small id="nameError"></small>
+          </div>
+
+          <div class="input-group">
+            <label>Email</label>
+
+            <input type="email" id="email" placeholder="Enter your email">
+
+            <small id="emailError"></small>
+          </div>
+
+          <div class="input-group">
+            <label>Message</label>
+
+            <textarea id="message" rows="6" placeholder="Write your message..."></textarea>
+
+            <small id="messageError"></small>
+          </div>
+
+          <button type="submit" class="btn primary-btn">Send Message</button>
+
+          <p id="formMessage"></p>
+        </form>
+      </div>
+    </section>
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer class="footer">
+      <p>© 2026 Jitendra. All Rights Reserved.</p>
+
+      <div>
+        <a href="https://splendid-cuchufli-70bf82.netlify.app/#home">Home</a>
+
+        <a href="https://github.com/" target="_blank"> GitHub </a>
+
+        <a href="https://www.linkedin.com/in/nikita-jain-72044642b" target="_blank">
+          LinkedIn
+        </a>
+      </div>
+    </footer>
+
+    <!-- BACK TO TOP -->
+
+    <button id="topBtn" class="top-btn">↑</button>
+
+    
+  
+
+</body></html>
+------MultipartBoundary--Znt5q9OzwZ2pPQnVWa2Jj794tQ9wKk9ZZrRnU25O7b----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://splendid-cuchufli-70bf82.netlify.app/nikita.css
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body { font-family: Arial, Helvetica, sans-serif; background: rgb(255, 255, 255); color: rgb(31, 41, 55); line-height: 1.6; transition: background 0.3s, color 0.3s; }
+
+a { text-decoration: none; color: inherit; }
+
+ul { list-style: none; }
+
+button, input, textarea { font-family: inherit; }
+
+:root { --primary: #2563eb; --primary-dark: #1d4ed8; --text: #1f2937; --text-light: #64748b; --background: #ffffff; --section-bg: #f8fafc; --card-bg: #ffffff; --border: #e2e8f0; --shadow: 0 10px 30px rgba(15, 23, 42, 0.08); --shadow-hover: 0 15px 35px rgba(15, 23, 42, 0.14); }
+
+body.dark { --background: #0f172a; --section-bg: #111827; --card-bg: #1e293b; --text: #f8fafc; --text-light: #cbd5e1; --border: #334155; --shadow: 0 10px 30px rgba(0, 0, 0, 0.25); --shadow-hover: 0 15px 35px rgba(0, 0, 0, 0.35); background: var(--background); color: var(--text); }
+
+.section { padding: 100px 8%; }
+
+.section-title { text-align: center; margin-bottom: 60px; }
+
+.section-title p { color: var(--primary); font-size: 13px; font-weight: 700; letter-spacing: 2px; margin-bottom: 8px; }
+
+.section-title h2 { font-size: 38px; font-weight: 700; }
+
+.section-title h2 span { color: var(--primary); }
+
+.header { position: fixed; top: 0px; left: 0px; width: 100%; z-index: 1000; background: rgba(255, 255, 255, 0.95); border-bottom: 1px solid var(--border); backdrop-filter: blur(10px); transition: 0.3s; }
+
+body.dark .header { background: rgba(15, 23, 42, 0.95); }
+
+.navbar { width: 100%; max-width: 1200px; height: 75px; margin: auto; padding: 0px 25px; display: flex; align-items: center; justify-content: space-between; }
+
+.logo { font-size: 28px; font-weight: 800; color: var(--text); letter-spacing: -1px; }
+
+.logo span { color: var(--primary); }
+
+.nav-links { display: flex; align-items: center; gap: 30px; }
+
+.nav-links li a { position: relative; color: var(--text); font-size: 15px; font-weight: 600; transition: 0.3s; }
+
+.nav-links li a:hover { color: var(--primary); }
+
+.nav-links li a::after { content: ""; position: absolute; left: 0px; bottom: -6px; width: 0px; height: 2px; background: var(--primary); transition: width 0.3s; }
+
+.nav-links li a:hover::after { width: 100%; }
+
+.nav-buttons { display: flex; align-items: center; gap: 10px; }
+
+.theme-btn, .menu-btn { width: 40px; height: 40px; border: 1px solid var(--border); border-radius: 8px; background: var(--section-bg); color: var(--text); cursor: pointer; font-size: 18px; display: flex; justify-content: center; align-items: center; transition: 0.3s; }
+
+.theme-btn:hover, .menu-btn:hover { background: var(--primary); color: white; border-color: var(--primary); }
+
+.menu-btn { display: none; }
+
+.hero { min-height: 100vh; max-width: 1200px; margin: auto; padding: 130px 25px 80px; display: flex; align-items: center; justify-content: space-between; gap: 70px; }
+
+.hero-content { flex: 1 1 0%; max-width: 650px; }
+
+.small-title { color: var(--primary); font-size: 14px; font-weight: 700; letter-spacing: 3px; margin-bottom: 12px; }
+
+.hero h1 { font-size: 58px; line-height: 1.1; margin-bottom: 18px; color: var(--text); }
+
+.hero h1 span { color: var(--primary); }
+
+.hero h2 { font-size: 25px; color: var(--text-light); margin-bottom: 20px; }
+
+.hero-text { max-width: 600px; color: var(--text-light); font-size: 17px; margin-bottom: 30px; }
+
+.hero-buttons { display: flex; gap: 15px; margin-bottom: 28px; }
+
+.btn { display: inline-flex; justify-content: center; align-items: center; padding: 13px 25px; border-radius: 8px; font-size: 15px; font-weight: 600; cursor: pointer; transition: 0.3s; }
+
+.primary-btn { background: var(--primary); color: white; border: 1px solid var(--primary); }
+
+.primary-btn:hover { background: var(--primary-dark); transform: translateY(-3px); box-shadow: rgba(37, 99, 235, 0.3) 0px 8px 20px; }
+
+.secondary-btn { background: transparent; color: var(--primary); border: 1px solid var(--primary); }
+
+.secondary-btn:hover { background: var(--primary); color: white; transform: translateY(-3px); }
+
+.social-links { display: flex; gap: 25px; }
+
+.social-links a { color: var(--text-light); font-weight: 600; transition: 0.3s; }
+
+.social-links a:hover { color: var(--primary); }
+
+.hero-image { flex: 0 0 auto; display: flex; justify-content: center; align-items: center; }
+
+.profile-circle { width: 330px; height: 330px; padding: 7px; border-radius: 50%; background: var(--primary); box-shadow: rgba(37, 99, 235, 0.08) 0px 0px 0px 12px, rgba(37, 99, 235, 0.2) 0px 20px 40px; }
+
+.profile-circle img { width: 100%; height: 100%; display: block; object-fit: cover; border-radius: 50%; background: var(--section-bg); }
+
+.about { background: var(--section-bg); }
+
+.about-container { max-width: 1100px; margin: auto; display: grid; grid-template-columns: 0.8fr 1.2fr; gap: 70px; align-items: center; }
+
+.about-box { min-height: 320px; background: var(--card-bg); border: 1px solid var(--border); border-radius: 20px; box-shadow: var(--shadow); display: flex; flex-direction: column; justify-content: center; align-items: center; transition: 0.3s; }
+
+.about-box:hover { transform: translateY(-5px); box-shadow: var(--shadow-hover); }
+
+.about-box span { font-size: 75px; margin-bottom: 15px; }
+
+.about-box h3 { font-size: 24px; color: var(--text); }
+
+.about-content h3 { font-size: 30px; margin-bottom: 20px; }
+
+.about-content > p { color: var(--text-light); margin-bottom: 15px; font-size: 16px; }
+
+.about-info { display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 30px; }
+
+.about-info div { padding: 15px; border-radius: 8px; background: var(--card-bg); border: 1px solid var(--border); }
+
+.about-info strong { display: block; font-size: 14px; margin-bottom: 3px; }
+
+.about-info span { color: var(--text-light); font-size: 14px; }
+
+.skills-grid { max-width: 1100px; margin: auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+
+.skill-card { padding: 30px 20px; background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px; text-align: center; transition: 0.3s; }
+
+.skill-card:hover { transform: translateY(-8px); border-color: var(--primary); box-shadow: var(--shadow-hover); }
+
+.skill-icon { width: 65px; height: 65px; margin: 0px auto 18px; border-radius: 12px; background: var(--primary); color: white; display: flex; justify-content: center; align-items: center; font-size: 16px; font-weight: 800; }
+
+.skill-card h3 { margin-bottom: 8px; font-size: 19px; }
+
+.skill-card p { color: var(--text-light); font-size: 14px; }
+
+.projects { background: var(--section-bg); }
+
+.projects-grid { max-width: 1100px; margin: auto; display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px; }
+
+.project-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 15px; overflow: hidden; transition: 0.3s; }
+
+.project-card:hover { transform: translateY(-7px); box-shadow: var(--shadow-hover); border-color: rgba(37, 99, 235, 0.5); }
+
+.project-image { height: 190px; background: var(--section-bg); display: flex; justify-content: center; align-items: center; font-size: 65px; border-bottom: 1px solid var(--border); }
+
+.project-content { padding: 25px; }
+
+.project-content h3 { font-size: 22px; margin-bottom: 10px; }
+
+.project-content p { color: var(--text-light); font-size: 15px; margin-bottom: 18px; }
+
+.tech { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+
+.tech span { padding: 5px 10px; background: rgba(37, 99, 235, 0.1); color: var(--primary); border-radius: 5px; font-size: 12px; font-weight: 700; }
+
+.project-buttons { display: flex; gap: 10px; }
+
+.project-btn { padding: 9px 16px; border-radius: 6px; background: var(--primary); color: white; font-size: 13px; font-weight: 600; transition: 0.3s; }
+
+.project-btn:hover { background: var(--primary-dark); transform: translateY(-2px); }
+
+.project-btn.github { background: transparent; color: var(--primary); border: 1px solid var(--primary); }
+
+.project-btn.github:hover { background: var(--primary); color: white; }
+
+.education-container { max-width: 850px; margin: auto; }
+
+.education-card { display: flex; align-items: flex-start; gap: 25px; padding: 30px; background: var(--card-bg); border: 1px solid var(--border); border-radius: 15px; box-shadow: var(--shadow); transition: 0.3s; }
+
+.education-card:hover { transform: translateY(-5px); box-shadow: var(--shadow-hover); }
+
+.education-icon { width: 60px; height: 60px; min-width: 60px; border-radius: 10px; background: var(--primary); display: flex; justify-content: center; align-items: center; font-size: 28px; }
+
+.education-year { display: inline-block; color: var(--primary); font-size: 14px; font-weight: 700; margin-bottom: 5px; }
+
+.education-card h3 { font-size: 22px; margin-bottom: 7px; }
+
+.education-card p { color: var(--text-light); margin-bottom: 5px; }
+
+.contact { background: var(--section-bg); }
+
+.contact-container { max-width: 1100px; margin: auto; display: grid; grid-template-columns: 1fr 1fr; gap: 70px; }
+
+.contact-info h3 { font-size: 30px; margin-bottom: 15px; }
+
+.contact-info > p { color: var(--text-light); margin-bottom: 30px; }
+
+.contact-item { display: flex; align-items: center; gap: 15px; margin-bottom: 20px; }
+
+.contact-item > div:first-child { width: 48px; height: 48px; min-width: 48px; border-radius: 8px; background: var(--card-bg); border: 1px solid var(--border); display: flex; justify-content: center; align-items: center; font-size: 20px; }
+
+.contact-item strong { font-size: 15px; }
+
+.contact-item p { color: var(--text-light); font-size: 14px; }
+
+.contact-form { padding: 30px; background: var(--card-bg); border: 1px solid var(--border); border-radius: 15px; box-shadow: var(--shadow); }
+
+.input-group { margin-bottom: 18px; }
+
+.input-group label { display: block; margin-bottom: 7px; font-size: 14px; font-weight: 600; }
+
+.input-group input, .input-group textarea { width: 100%; padding: 13px 15px; background: var(--section-bg); color: var(--text); border: 1px solid var(--border); border-radius: 7px; outline: none; font-size: 14px; resize: vertical; transition: 0.3s; }
+
+.input-group input:focus, .input-group textarea:focus { border-color: var(--primary); box-shadow: rgba(37, 99, 235, 0.1) 0px 0px 0px 3px; }
+
+.input-group small { display: block; min-height: 18px; color: rgb(220, 38, 38); font-size: 12px; margin-top: 4px; }
+
+#formMessage { margin-top: 15px; font-size: 14px; font-weight: 600; }
+
+.footer { padding: 25px 8%; background: rgb(15, 23, 42); color: white; display: flex; justify-content: space-between; align-items: center; gap: 20px; }
+
+.footer p { font-size: 14px; }
+
+.footer div { display: flex; gap: 20px; }
+
+.footer a { color: rgb(203, 213, 225); font-size: 14px; transition: 0.3s; }
+
+.footer a:hover { color: rgb(96, 165, 250); }
+
+.top-btn { position: fixed; right: 25px; bottom: 25px; width: 45px; height: 45px; border: none; border-radius: 8px; background: var(--primary); color: white; font-size: 22px; cursor: pointer; display: none; align-items: center; justify-content: center; z-index: 999; box-shadow: rgba(37, 99, 235, 0.3) 0px 5px 20px; transition: 0.3s; }
+
+.top-btn:hover { background: var(--primary-dark); transform: translateY(-3px); }
+
+.top-btn.show { display: flex; }
+
+.reveal { opacity: 0; transform: translateY(30px); transition: opacity 0.7s, transform 0.7s; }
+
+.reveal.active { opacity: 1; transform: translateY(0px); }
+
+@media (max-width: 1000px) {
+  .hero { gap: 40px; }
+  .hero h1 { font-size: 48px; }
+  .profile-circle { width: 280px; height: 280px; }
+  .skills-grid { grid-template-columns: repeat(2, 1fr); }
+  .about-container { gap: 40px; }
+}
+
+@media (max-width: 850px) {
+  .nav-links { position: absolute; top: 75px; left: 0px; width: 100%; display: none; flex-direction: column; gap: 0px; padding: 10px 25px 20px; background: var(--background); border-bottom: 1px solid var(--border); box-shadow: var(--shadow); }
+  .nav-links.active { display: flex; }
+  .nav-links li { width: 100%; }
+  .nav-links li a { display: block; padding: 13px 0px; }
+  .nav-links li a::after { display: none; }
+  .menu-btn { display: flex; }
+  .hero { min-height: auto; padding-top: 130px; flex-direction: column-reverse; text-align: center; }
+  .hero-content { max-width: 700px; }
+  .hero-text { margin-left: auto; margin-right: auto; }
+  .hero-buttons { justify-content: center; }
+  .social-links { justify-content: center; }
+  .about-container { grid-template-columns: 1fr; max-width: 700px; }
+  .about-image { max-width: 500px; width: 100%; margin: auto; }
+  .contact-container { grid-template-columns: 1fr; gap: 40px; }
+}
+
+@media (max-width: 600px) {
+  .section { padding: 75px 5%; }
+  .navbar { padding: 0px 18px; }
+  .logo { font-size: 24px; }
+  .hero { padding: 120px 5% 70px; }
+  .hero h1 { font-size: 38px; }
+  .hero h2 { font-size: 20px; }
+  .hero-text { font-size: 15px; }
+  .profile-circle { width: 220px; height: 220px; }
+  .hero-buttons { flex-direction: column; width: 100%; max-width: 300px; margin-left: auto; margin-right: auto; }
+  .btn { width: 100%; }
+  .section-title { margin-bottom: 40px; }
+  .section-title h2 { font-size: 30px; }
+  .about-box { min-height: 250px; }
+  .about-info { grid-template-columns: 1fr; }
+  .about-content h3 { font-size: 25px; }
+  .skills-grid { grid-template-columns: 1fr; }
+  .projects-grid { grid-template-columns: 1fr; }
+  .project-image { height: 160px; }
+  .education-card { flex-direction: column; padding: 25px; }
+  .education-card h3 { font-size: 19px; }
+  .contact-form { padding: 20px; }
+  .contact-info h3 { font-size: 25px; }
+  .footer { flex-direction: column; text-align: center; padding: 25px 5%; }
+  .footer div { justify-content: center; flex-wrap: wrap; }
+  .top-btn { right: 18px; bottom: 18px; }
+}
+
+@media (max-width: 380px) {
+  .hero h1 { font-size: 32px; }
+  .profile-circle { width: 190px; height: 190px; }
+  .section-title h2 { font-size: 27px; }
+  .project-content { padding: 20px; }
+}
+------MultipartBoundary--Znt5q9OzwZ2pPQnVWa2Jj794tQ9wKk9ZZrRnU25O7b------
